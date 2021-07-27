@@ -21,7 +21,7 @@
     "require": {
         "php": "^7.4 || ^8.0",
 
-        "sylius/sylius": "1.9.*",
+        "sylius/sylius": "~1.10.0",
         "friendsofsymfony/jsrouting-bundle": "^2.2",
         "symfony/flex": "^1.10",
         "symfony/asset": "^4.4 || ^5.2"
